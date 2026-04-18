@@ -53,7 +53,7 @@
   5.Admin Login
   <img width="1914" height="990" alt="admin_login" src="https://github.com/user-attachments/assets/7cbbd12d-8605-467b-b8f1-0cafc6bdfcb6" />
   
-  6. Admin Dashboard:
+  6.Admin Dashboard:
   <img width="1919" height="1029" alt="admin_dahsboard" src="https://github.com/user-attachments/assets/3494d611-c679-470b-b105-2498f26d3c70" />
   
   7.Safety Alerts:
