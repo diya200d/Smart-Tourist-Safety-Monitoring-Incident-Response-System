@@ -38,18 +38,24 @@
 - AI‑powered risk assessment
 
   **Screenshots**
-  1.User Dashboard:
-  <img width="1913" height="969" alt="user_dashboard" src="https://github.com/user-attachments/assets/b0d79fd4-fa48-4bd9-aa81-1cadb9d318a7" />
-  2.Report Incidents:
-  <img width="1918" height="880" alt="report_incident" src="https://github.com/user-attachments/assets/b2212fd0-df9f-4a7f-aebd-7ca8afd36d46" />
-  3.User Safety Alerts:
-  <img width="1907" height="1013" alt="user_safety_alerts" src="https://github.com/user-attachments/assets/176fa92d-07c5-40a7-9fb3-7b95570ff66f" />
-  4.Send SOS:
+  1.Send SOS:
   <img width="1912" height="1016" alt="sending_sos" src="https://github.com/user-attachments/assets/8aefcf1b-a8a0-41fe-aeed-4f59385e15b6" />
+  
+  2.User Dashboard:
+  <img width="1913" height="969" alt="user_dashboard" src="https://github.com/user-attachments/assets/b0d79fd4-fa48-4bd9-aa81-1cadb9d318a7" />
+  
+  3.Report Incidents:
+  <img width="1918" height="880" alt="report_incident" src="https://github.com/user-attachments/assets/b2212fd0-df9f-4a7f-aebd-7ca8afd36d46" />
+  
+  4.User Safety Alerts:
+  <img width="1907" height="1013" alt="user_safety_alerts" src="https://github.com/user-attachments/assets/176fa92d-07c5-40a7-9fb3-7b95570ff66f" />
+  
   5.Admin Login
   <img width="1914" height="990" alt="admin_login" src="https://github.com/user-attachments/assets/7cbbd12d-8605-467b-b8f1-0cafc6bdfcb6" />
+  
   6. Admin Dashboard:
   <img width="1919" height="1029" alt="admin_dahsboard" src="https://github.com/user-attachments/assets/3494d611-c679-470b-b105-2498f26d3c70" />
+  
   7.Safety Alerts:
   <img width="1909" height="985" alt="safety_alerts" src="https://github.com/user-attachments/assets/c5bcb6c9-bf13-4c85-b515-a55fb1d93aaa" />
 
